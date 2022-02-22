@@ -1,6 +1,7 @@
 # AngularTailwind
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+The article https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-2i1b
 
 ## Development server
 
